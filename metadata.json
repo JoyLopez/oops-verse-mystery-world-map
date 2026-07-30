@@ -1,0 +1,6 @@
+{
+  "name": "Oopsverse - Mystery World Map & Detective Universe",
+  "description": "An interactive mystery investigation game featuring 6 unlockable worlds, 60 unique cases, custom mini-game mechanics, cinematic world unlock cutscenes, achievements, and Detective Oops!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
